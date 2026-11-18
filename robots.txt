@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wattpunk.github.io/sitemap.xml
